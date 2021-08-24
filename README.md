@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mischkedb
-- 👀 I’m interested in development in General . 
+- 👀 I’m interested in development in general . 
 - 🌱 I’m currently in my second year of my Bsc Computing degree though I am already 32 years old. 
 - 💞️ I’m looking to collaborate on any projects that would give me more real life experience. I am interested in front-end and backend. 
 - 📫 How to reach me mischkedb@gmail.com
